@@ -16,6 +16,10 @@ namespace Valami
             else
                 Console.WriteLine("Nem jó");
 
+            
+
+            Console.WriteLine("Valami updatw");
+
             Console.ReadKey();
         }
     }
